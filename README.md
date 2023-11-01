@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alens EVra</h1>
+<h1 align="center">Hi 👋, I'm Alens Evra</h1>
 
 ![giphy](https://github.com/AlensEv/AlensEv/assets/90947905/64ac7491-e1ef-495c-97bd-c700f81e83b7)
 
