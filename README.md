@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="450" src="https://github.com/AlensEv/AlensEv/assets/90947905/e4d271ce-ffa8-4152-a7ae-e2d6880dec6e">
+  <img width="500" height="450" src="https://github.com/AlensEv/AlensEv/assets/90947905/e4d271ce-ffa8-4152-a7ae-e2d6880dec6e">
 </p>
 
 <h3 align="center">An aspiring Software Developer from the NYC Metro Area</h3>
