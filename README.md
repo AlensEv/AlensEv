@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alens Evra</h1>
 
-![giphy](https://github.com/AlensEv/AlensEv/assets/90947905/64ac7491-e1ef-495c-97bd-c700f81e83b7)
+
+![coding](https://github.com/AlensEv/AlensEv/assets/90947905/d97c7f38-8646-41df-b940-1098f93b70b0)
 
 
 <h3 align="center">A passionate Software developer from the NY Metro Area</h3>
