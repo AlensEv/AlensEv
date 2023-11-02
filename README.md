@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **evraa1@tcnj.edu**
+- 📫 How to reach me **alensevra@gmail.com**
 
 - ⚡ Fun fact **I also love photography**
 
