@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alens Evra</h1>
 
+![giphy (1)](https://github.com/AlensEv/AlensEv/assets/90947905/6011ec66-d66e-4ab8-b799-6b4a8f716ba3)
 
 
 
