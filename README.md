@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A passionate Software developer from the NY Metro Area</h3>
+<h3 align="center">An aspiring Software developer from the NY Metro Area</h3>
 
 - 🔭 I’m currently working on **on my personal website**
 
