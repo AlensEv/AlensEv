@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alensevra@gmail.com**
 
-- ⚡ Fun fact **I also love photography**
+- ⚡ Fun fact **I also love shooting photography in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
