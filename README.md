@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **on my personal website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MVC**
 
 - 📫 How to reach me **alensevra@gmail.com**
 
